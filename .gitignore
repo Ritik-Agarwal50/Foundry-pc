@@ -9,6 +9,7 @@ out/
 
 # Docs
 docs/
+UseFull_Commands.md
 
 # Dotenv file
 .env
